@@ -5,7 +5,6 @@ import MenuItem from '../menu-item/menu-item.component.jsx';
 class Directory extends React.Component {
     constructor() {
         super();
-
         this.state = {
             sections: [
              
